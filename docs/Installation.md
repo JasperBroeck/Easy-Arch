@@ -21,3 +21,6 @@ Now you got all the prequisites figured out, you can start making your bootable 
 3. Select your flash drive, grant access and then click "Write image"
 4. Wait for a couple minutes and **DON'T TOUCH YOUR PHONE OR THE USB DRIVE"**.
 5. You're done!
+
+## Installation Boot
+To install arch linux on your PC, you'll need to boot your laptop from the flash drive, to do so you need to diable secure boot. You can do so in the BIOS but accessing the BIOS is different on every laptop or PC. On many laptops you can do so by shutting your laptop down and then holding the f2, f12; delete or f9 key while booting back up, then go look in the security tab if there is one, otherwise just look it up for your device or motherboard.
