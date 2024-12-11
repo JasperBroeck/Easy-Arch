@@ -4,8 +4,6 @@
 
 Thank you for your interest in contributing to the Easy Arch Wiki! This project thrives on collaboration, and we welcome helpers of all skill levels—whether you’re a Linux expert or just starting out. Together, we can make Arch Linux approachable for everyone.
 
----
-
 ## Our Goal
 The **Easy Arch Wiki** exists to simplify Arch Linux for beginners. Unlike the official Arch Wiki, which assumes a level of prior knowledge, this project is focused on:
 - **Breaking down complex concepts** into simple, beginner-friendly terms.
@@ -13,8 +11,6 @@ The **Easy Arch Wiki** exists to simplify Arch Linux for beginners. Unlike the o
 - **Highlighting practical use cases** for Arch Linux, such as setting up a desktop environment or installing software.
 
 This wiki is **not** about replicating the official Arch Wiki. Instead, we aim to complement it by making Arch Linux accessible to new users.
-
----
 
 ## How to Contribute
 We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://docsify.js.org/) under the hood for the Wiki look. You can contribute by:
@@ -32,14 +28,13 @@ We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://d
 4. **Reporting Issues or Suggestions:**  
    If you notice any problems or have ideas for new content, feel free to open an issue on GitHub.
 
----
-
 ## Contribution Guidelines
 To ensure consistency and quality, please follow these guidelines:
 - **Keep it Simple:** Write for users who might be completely new to Linux.
 - **Stick to the Goal:** Focus on beginner-oriented content. Avoid advanced or overly technical topics that might confuse new users.
 - **Use Markdown Properly:** Format headers, lists, and code blocks correctly.  
   For example, use backticks (\`\`\`) for singular easy terminal commands: ```sudo pacman -S gnome``` or a codeblock for multiple commands:
+
   ```bash
   sudo pacman -S --needed base-devel
   git clone https://aur.archlinux.org/paru.git
@@ -47,8 +42,6 @@ To ensure consistency and quality, please follow these guidelines:
   makepkg -si
   ```
 - **Be Respectful:** Constructive feedback is always welcome. Let’s keep the community positive and beginner-friendly!
-
----
 
 ## Getting Started
 1. Clone the repository:
@@ -62,8 +55,6 @@ To ensure consistency and quality, please follow these guidelines:
    git push origin main
    ```
 4. Submit your pull request!
-
----
 
 ## **Need Help?**
 If you’re unsure about anything or need help getting started, don’t hesitate to reach out. Open an issue on GitHub, and we’ll assist you.
