@@ -1,5 +1,3 @@
-# Contributing
-
 # Contributing to Easy Arch Wiki 🚀
 
 Thank you for your interest in contributing to the Easy Arch Wiki! This project thrives on collaboration, and we welcome helpers of all skill levels—whether you’re a Linux expert or just starting out. Together, we can make Arch Linux approachable for everyone.
