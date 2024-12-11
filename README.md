@@ -1,14 +1,14 @@
-# **Welcome to the Easy Arch Wiki!** 🌟
+# Welcome to the Easy Arch Wiki! 🌟
 
 So, you’ve heard about Arch Linux—the sleek, fast, and customizable Linux distribution that everyone says is "hard to install." You might have seen YouTubers struggle through terminal commands or read stories about its steep learning curve. But here’s the thing:
 
-**Arch Linux doesn’t have to be hard!**
+Arch Linux doesn’t have to be hard!
 
 This wiki is here to prove it. Whether you’re new to Linux or just curious about Arch, we’ll guide you through the process step-by-step, in plain English. No complex jargon, no unnecessary details—just the essential info you need to get Arch up and running with ease.
 
 ---
 
-## **Why Arch Linux?**
+## Why Arch Linux?
 Arch isn’t just for experts. It’s a fantastic choice for beginners too! Here’s why:
 
 - **Lightweight & Fast:** Only install what you need. No bloat, no distractions.
@@ -18,7 +18,7 @@ Arch isn’t just for experts. It’s a fantastic choice for beginners too! Here
 
 ---
 
-## **What You'll Find Here**
+## What You'll Find Here
 The Easy Arch Wiki is designed for *absolute beginners*. Here’s what you can expect:
 
 1. **Simplified Installation**  
@@ -35,14 +35,14 @@ The Easy Arch Wiki is designed for *absolute beginners*. Here’s what you can e
 
 ---
 
-## **Who Is This For?**
+## Who Is This For?
 - Linux beginners curious about Arch.
 - Intermediate users who want an easier way to start with Arch.
 - Anyone looking for a smoother path to mastering Linux.
 
 ---
 
-## **Ready to Begin?**
+## Ready to Begin?
 Start with the [Getting Started Guide](/docs/installation.md) to learn how to install Arch Linux the easy way!
 
 Let’s make Arch Linux accessible for everyone—no experience required! 🚀
