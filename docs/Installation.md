@@ -28,4 +28,5 @@ To install arch linux on your PC, you'll need to boot your laptop from the flash
 Once you disabled secure boot, you can boot from the usb drive. To do so, it again depends on the brand of your motherboard or laptop, you can sometimes configure to boot from the usb drive in the BIOS settings but you can also most of the time get your machine to boot into a device selector so to know how to boot into the device selector, just look it up on the internet.
 
 Once you're booting into the usb drive, just let everything do it's job until you're greeted with this screen or something similar:
+
 ![ISO greeter](/docs/images/iso_greeter.png)
