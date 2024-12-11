@@ -17,7 +17,7 @@ This wiki is **not** about replicating the official Arch Wiki. Instead, we aim t
 ---
 
 ## **How to Contribute**
-We use **GitHub** to manage and host the Easy Arch Wiki. You can contribute by:
+We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://docsify.js.org/) under the hood for the Wiki look. You can contribute by:
 1. **Forking the Repository:**  
    Clone the project to your local machine and make updates or additions.
    
