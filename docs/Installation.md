@@ -45,6 +45,6 @@ Now, after configuring everything down, choose Install, follow the on-screen ins
 after a while you'll be asked if you want to get into the newly installed chroot environment. It's basically a terminal environment from your newly installed system and you can do some stuff to your system but you can also say no, typ reboot and remove the usb drive to boot right into the fresh arch install!
 
 ## Post Install things
-As far as post install goes, I think the most important thing is to check for updates although you probably don't have any because arch always downloads the newest packages!
+As far as post install goes, I think the most important thing is to update everything (```sudo pacman -Syu```) although you probably don't have any because arch always downloads the newest packages!
 
 Succes with your system and have fun!
