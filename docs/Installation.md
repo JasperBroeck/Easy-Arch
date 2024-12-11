@@ -21,5 +21,3 @@ Now you got all the prequisites figured out, you can start making your bootable 
 3. Select your flash drive, grant access and then click "Write image"
 4. Wait for a couple minutes and **DON'T TOUCH YOUR PHONE OR THE USB DRIVE"**.
 5. You're done!
-
-## 
