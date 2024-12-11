@@ -2,6 +2,14 @@
 In this article we'll be going over the installation process of arch linux from top to bottom. We will use the 
 archinstall script for an easy installation.
 
+## System Requirements
+Arch doesn't really have system requirements but it's generally recommended to have the following for a smooth experience:
+- 8GB of RAM
+- At least 256GB of storage (preferably SSD instead of HDD)
+- A 5th gen or newer intel or amd cpu
+
+Don't be scared if your system doesn't meet these requirements, arch is super lightweight and fast so your system will probably be able to run arch, I've seen it running on 1GB of RAM and 4GB of storage.
+
 ## Prequisites
 - A USB-stick of at least 8GB
 - An arch linux iso image (downloadable [here](https://archlinux.org/download/))
