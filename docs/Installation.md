@@ -5,7 +5,7 @@ archinstall script for an easy installation.
 ## Prequisites
 - A USB-stick of at least 8GB
 - An arch linux iso image (downloadable [here](https://archlinux.org/download/))
-- A functioning computer or android device (where you can plug your usb drive in)
+- A functioning computer or android device (that you can plug your usb drive in)
 
 ## Making the bootable USB
 Now you got all the prequisites figured out, you can start making your bootable USB drive by following the steps below
