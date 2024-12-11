@@ -24,3 +24,8 @@ Now you got all the prequisites figured out, you can start making your bootable 
 
 ## Installation Boot
 To install arch linux on your PC, you'll need to boot your laptop from the flash drive, to do so you need to diable secure boot. You can do so in the BIOS but accessing the BIOS is different on every laptop or PC. On many laptops you can do so by shutting your laptop down and then holding the f2, f12; delete or f9 key while booting back up, then go look in the security tab if there is one, otherwise just look it up for your device or motherboard.
+
+Once you disabled secure boot, you can boot from the usb drive. To do so, it again depends on the brand of your motherboard or laptop, you can sometimes configure to boot from the usb drive in the BIOS settings but you can also most of the time get your machine to boot into a device selector so to know how to boot into the device selector, just look it up on the internet.
+
+Once you're booting into the usb drive, just let everything do it's job until you're greeted with this screen or something similar:
+![ISO greeter](/docs/images/iso_greeter.png)
