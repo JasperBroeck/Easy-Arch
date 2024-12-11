@@ -1,12 +1,12 @@
 # Contributing
 
-# **Contributing to Easy Arch Wiki** 🚀
+# Contributing to Easy Arch Wiki 🚀
 
 Thank you for your interest in contributing to the Easy Arch Wiki! This project thrives on collaboration, and we welcome helpers of all skill levels—whether you’re a Linux expert or just starting out. Together, we can make Arch Linux approachable for everyone.
 
 ---
 
-## **Our Goal**
+## Our Goal
 The **Easy Arch Wiki** exists to simplify Arch Linux for beginners. Unlike the official Arch Wiki, which assumes a level of prior knowledge, this project is focused on:
 - **Breaking down complex concepts** into simple, beginner-friendly terms.
 - **Providing clear and concise instructions** (e.g., focusing on tools like `archinstall` instead of manual installations).
@@ -16,7 +16,7 @@ This wiki is **not** about replicating the official Arch Wiki. Instead, we aim t
 
 ---
 
-## **How to Contribute**
+## How to Contribute
 We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://docsify.js.org/) under the hood for the Wiki look. You can contribute by:
 1. **Forking the Repository:**  
    Clone the project to your local machine and make updates or additions.
@@ -34,7 +34,7 @@ We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://d
 
 ---
 
-## **Contribution Guidelines**
+## Contribution Guidelines
 To ensure consistency and quality, please follow these guidelines:
 - **Keep it Simple:** Write for users who might be completely new to Linux.
 - **Stick to the Goal:** Focus on beginner-oriented content. Avoid advanced or overly technical topics that might confuse new users.
@@ -44,7 +44,7 @@ To ensure consistency and quality, please follow these guidelines:
 
 ---
 
-## **Getting Started**
+## Getting Started
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/easy-arch-wiki.git
