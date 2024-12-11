@@ -13,7 +13,7 @@ This wiki is **not** about replicating the official Arch Wiki. Instead, we aim t
 ## How to Contribute
 We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://docsify.js.org/) under the hood for the Wiki look. You can contribute by:
 1. **Forking the Repository:**  
-   Clone the project to your local machine and make updates or additions.
+   Clone the project to your local machine and make updates or additions. You can also view the repo [here](https://github.com/JasperBroeck/Easy-ArchWiki).
    
 2. **Creating or Editing Content:**  
    - Keep the content beginner-friendly and aligned with our goals.  
@@ -45,7 +45,7 @@ To ensure consistency and quality, please follow these guidelines:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/easy-arch-wiki.git
+   git clone https://github.com/JasperBroeck/Easy-ArchWiki.git
    ```
 3. Make your edits locally or create a new Markdown file for a new page.
 4. Commit your changes and push them to your fork:
