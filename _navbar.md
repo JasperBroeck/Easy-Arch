@@ -1,1 +1,2 @@
+- [Home](/)
 - [Contributing](/docs/contributing.md)
