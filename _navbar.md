@@ -1,3 +1,3 @@
 - [Home](/)
 - [Contributing](/docs/contributing.md)
-- [Installation](/docs/installation.md)
+- [Installation](/docs/Installation.md)
