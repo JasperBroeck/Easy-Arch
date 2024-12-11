@@ -10,11 +10,11 @@ archinstall script for an easy installation.
 ## Making the bootable USB
 Now you got all the prequisites figured out, you can start making your bootable USB drive by following the steps below
 ### On a computer: 
-1. Go to the [balena etcher download page](https://etcher.balena.io/#download-etcher) and install it.
-2. Open the balena etcher application and choose your arch linux iso image as the file.
-3. Plug in your usb disk (**MAKE SURE THERE IS NOTHING IMPORTANT ON THERE ANYMORE**) and select it as the target.
-4. Hit the "flash" button to start making the bootable usb (you might need to give administrator privileges).
-5. You're done!
+i. Go to the [balena etcher download page](https://etcher.balena.io/#download-etcher) and install it.
+ii. Open the balena etcher application and choose your arch linux iso image as the file.
+iii. Plug in your usb disk (**MAKE SURE THERE IS NOTHING IMPORTANT ON THERE ANYMORE**) and select it as the target.
+iv. Hit the "flash" button to start making the bootable usb (you might need to give administrator privileges).
+v. You're done!
 ### On an android phone:
 1. Download the EtchDroid app on the playstore from [here](https://play.google.com/store/apps/details?id=eu.depau.etchdroid&pli=1).
 2. Click the "Write an image" button and choose your iso file.
