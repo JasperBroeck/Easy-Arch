@@ -39,7 +39,13 @@ To ensure consistency and quality, please follow these guidelines:
 - **Keep it Simple:** Write for users who might be completely new to Linux.
 - **Stick to the Goal:** Focus on beginner-oriented content. Avoid advanced or overly technical topics that might confuse new users.
 - **Use Markdown Properly:** Format headers, lists, and code blocks correctly.  
-  For example, use backticks (\`\`\`) for terminal commands: ```sudo pacman -S gnome```
+  For example, use backticks (\`\`\`) for singular easy terminal commands: ```sudo pacman -S gnome``` or a codeblock for multiple commands:
+  ```bash
+  sudo pacman -S --needed base-devel
+  git clone https://aur.archlinux.org/paru.git
+  cd paru
+  makepkg -si
+  ```
 - **Be Respectful:** Constructive feedback is always welcome. Let’s keep the community positive and beginner-friendly!
 
 ---
