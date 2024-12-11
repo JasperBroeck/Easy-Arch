@@ -29,13 +29,13 @@ Once you disabled secure boot, you can boot from the usb drive. To do so, it aga
 
 Once you're booting into the usb drive, just let everything do it's job until you're greeted with this screen or something similar:
 
-![](./docs/images/iso_greeter.png)
+![](/images/iso_greeter.png)
 
 Now for your own ease and comfort, plug in an ethernet cable or setup wired ethernet tethering from your phone, connecting to wifi is possible and you can do so by following [this](/docs/wifi.md) article but, connecting via a cable is just easier for the installation and also gives you a faster connection.
 
 To start the installation process type in ```archinstall```, you don't have a mouse cursor right now but you can just typ and it'll work. after a small moment, you should see something like this:
 
-![](./docs/images/archinstall.png)
+![](/images/archinstall.png)
 
 This is the installer, and this is also where you configure some stuff before installing your system. I recommend going through everything but if you don't know something, you can probably leave it to the default.
 
