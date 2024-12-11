@@ -1,2 +1,3 @@
 - [home](/)
-- [something](something.md)
+- [Quick Setup]()
+- [Installation](/docs/Installation.md)
