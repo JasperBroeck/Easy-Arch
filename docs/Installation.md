@@ -30,3 +30,28 @@ Once you disabled secure boot, you can boot from the usb drive. To do so, it aga
 Once you're booting into the usb drive, just let everything do it's job until you're greeted with this screen or something similar:
 
 ![ISO greeter](/docs/images/iso_greeter.png)
+
+Now for your own ease and comfort, plug in an ethernet cable or setup wired ethernet tethering from your phone, connecting to wifi is possible and you can do so by following [this](/docs/wifi.md) article but, connecting via a cable is just easier for the installation and also gives you a faster connection.
+
+To start the installation process type in ```archinstall```, you don't have a mouse cursor right now but you can just typ and it'll work. after a small moment, you should see something like this:
+
+![archinstaller](/docs/images/archinstall.png)
+
+This is the installer, and this is also where you can already configure a lot for your system. Let's go over the steps
+
+### Archinstall Language
+The archinstall language is just the language of this installer but since you're following this guide in english, I think that'll be perfectly fine for you.
+### Locales
+You can change the locales to get your language and keyboard layout but please keep the locale encoding set to the standard UTF-8.
+### Mirrors
+The mirrors are basically the servers from which you'll download packages or apps and to get the fastest servers, I suggest selecting the one from your country or a country near you and then I always also select the one from the US and the worldwide one, this is just so you have a backup when the other one fails.
+### Disk Configuration
+Select it and press enter until you see an option called back and then select that, this way your partitioning we'll be all set and you don't need to do it manualy.
+The options you go through are:
+- The question if you want to do the partitioning yourself or automatically, we'll go with the automated option.
+- It'll ask you what drive you want to install arch on, select the right one because all data on that drive will be deleted.
+- Choose a filesystem like btrfs or ext4, btrfs is the default so we'll go with it.
+- Then you get the option to choose for compression. The default is to use compression so we'll go with it.
+- Then you might get a couple of not-important options so just go over them.
+- The last thing to do is to click back or start again.
+
