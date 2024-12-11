@@ -45,16 +45,18 @@ To ensure consistency and quality, please follow these guidelines:
 
 ## Getting Started
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/easy-arch-wiki.git
    ```
-2. Make your edits locally or create a new Markdown file for a new page.
-3. Commit your changes and push them to your fork:
+3. Make your edits locally or create a new Markdown file for a new page.
+4. Commit your changes and push them to your fork:
+
    ```bash
    git commit -m "Added beginner-friendly guide for setting up KDE"
    git push origin main
    ```
-4. Submit your pull request!
+6. Submit your pull request!
 
 ## **Need Help?**
 If you’re unsure about anything or need help getting started, don’t hesitate to reach out. Open an issue on GitHub, and we’ll assist you.
