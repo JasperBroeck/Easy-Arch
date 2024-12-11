@@ -43,6 +43,6 @@ The Easy Arch Wiki is designed for *absolute beginners*. Here’s what you can e
 ---
 
 ## Ready to Begin?
-Start with the [Getting Started Guide](/docs/installation.md) to learn how to install Arch Linux the easy way!
+Start with the [Getting Started Guide](/docs/Installation.md) to learn how to install Arch Linux the easy way!
 
 Let’s make Arch Linux accessible for everyone—no experience required! 🚀
