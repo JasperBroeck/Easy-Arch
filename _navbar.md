@@ -1,2 +1,1 @@
-- Something
-- [aardbei](something.md)
+- [Contributing](/docs/contributing.md)
