@@ -1,3 +1,4 @@
 - [home](/)
 - [Quick Setup]()
 - [Installation](/docs/Installation.md)
+  - [Wireless Connection](/docs/wifi.md)
