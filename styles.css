@@ -1,12 +1,12 @@
 :root {
-    --cover-color                                      : ;
+    --cover-color                                      : rgba(255, 255, 255, 255);
     --cover-margin                                     : 0 auto;
     --cover-max-width                                  : 40em;
     --cover-text-align                                 : center;
 
     /* Background */
     --cover-background-blend-mode                      : ;
-    --cover-background-color                           : rgba(40,51,57,255);
+    --cover-background-color                           : rgba(0,0,0,255);
     --cover-background-image                           : ;
     --cover-background-mask-color                      : rgba(40,51,57,255);
     --cover-background-mask-opacity                    : 0.8;
