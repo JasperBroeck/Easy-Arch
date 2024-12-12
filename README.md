@@ -1,4 +1,3 @@
-# Easy-ArchWiki
 # Welcome to the Easy Arch Wiki! 🌟
 
 So, you’ve heard about Arch Linux—the sleek, fast, and customizable Linux distribution that everyone says is "hard to install." You might have seen YouTubers struggle through terminal commands or read stories about its steep learning curve. But here’s the thing:
