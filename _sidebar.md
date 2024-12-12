@@ -1,4 +1,5 @@
 - [home](/)
 - [Installation](/docs/Installation.md)
+  - [More Post Install](/docs/post.md)
 - [Utilities]()
   - [Wireless Connection](/docs/wifi.md)
