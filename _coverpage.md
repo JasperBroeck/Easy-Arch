@@ -1,12 +1,8 @@
 ![logo](/icon.svg)
 
-# <small>Easy</small> ArchWiki
+# Easy ArchWiki
 
-> An Simplified guide to everything you need to know about Arch Linux!
+> A Simplified guide to everything you need to know about Arch Linux!
 
-- Easy to use
-- Many Articles
-- No experience needed
-
-[Get Started](/)
+[Get Started](https://jasperbroeck.github.io/Easy-ArchWiki/#/?id=welcome-to-the-easy-arch-wiki-%f0%9f%8c%9f)
 [Github Repo](https://github.com/JasperBroeck/Easy-ArchWiki)
