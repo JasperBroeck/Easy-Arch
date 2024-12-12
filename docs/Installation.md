@@ -2,6 +2,8 @@
 In this article we'll be going over the installation process of arch linux from top to bottom. We will use the 
 archinstall script for an easy installation.
 
+**WARNING!:** if you want to dual boot arch linux with windows, follow [this](/docs/dualboot.md) guide
+
 ## System Requirements
 Arch doesn't really have system requirements, but it's generally recommended to have the following for a smooth experience:
 - 8GB of RAM
@@ -37,13 +39,13 @@ Once you disabled secure boot, you can boot from the usb drive. To do so, it aga
 
 Once you're booting into the usb drive, just let everything do it's job until you're greeted with this screen or something similar:
 
-![](images/iso_greeter.png)
+![](/images/iso_greeter.png)
 
-Now for your own ease and comfort, plug in an ethernet cable or setup wired ethernet tethering from your phone, connecting to wifi is possible and you can do so by following [this](/docs/wifi.md) article but, connecting via a cable is just easier for the installation and also gives you a faster connection.
+Now for your own ease and comfort, plug in an ethernet cable or setup wired ethernet tethering from your phone, connecting to wifi is possible and you can do so by following [this](/docs/networking/wifi.md) article but, connecting via a cable is just easier for the installation and also gives you a faster connection.
 
 To start the installation process type in ```archinstall```, you don't have a mouse cursor right now but you can just typ and it'll work. after a small moment, you should see something like this:
 
-![](images/archinstall.png)
+![](/images/archinstall.png)
 
 This is the installer, and this is also where you configure some stuff before installing your system. I recommend going through everything but if you don't know something, you can probably leave it to the default.
 
@@ -53,6 +55,6 @@ Now, after configuring everything, choose Install, follow the on-screen instruct
 After a while you'll be asked if you want to get into the newly installed chroot environment. It's basically a terminal environment from your newly installed system and you can do some stuff to your system but you can also say no, typ reboot and remove the usb drive to boot right into the fresh arch install!
 
 ## Post Install things
-As far as post install goes, I think the most important thing is to update everything (```sudo pacman -Syu```) although you probably don't have any because arch always downloads the newest packages!
+As far as [post install](/docs/post/) goes, I think the most important thing is to update everything (```sudo pacman -Syu```) although you probably don't have any because arch always downloads the newest packages!
 
 Success with your system and have fun!
