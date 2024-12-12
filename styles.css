@@ -6,9 +6,9 @@
 
     /* Background */
     --cover-background-blend-mode                      : ;
-    --cover-background-color                           : rgba(36,46,51,255);
+    --cover-background-color                           : rgba(40,51,57,255);
     --cover-background-image                           : ;
-    --cover-background-mask-color                      : rgba(36,46,51,255);
+    --cover-background-mask-color                      : rgba(40,51,57,255);
     --cover-background-mask-opacity                    : 0.8;
     --cover-background-mask-visibility                 : ;
     --cover-background-position                        : center center;
