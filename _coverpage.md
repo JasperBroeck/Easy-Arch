@@ -6,5 +6,3 @@
 
 [Get Started](#welcome-to-the-easy-arch-wiki-🌟)
 [Github Repo](https://github.com/JasperBroeck/Easy-ArchWiki)
-
-![color](#252e33)
