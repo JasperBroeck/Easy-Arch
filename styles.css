@@ -16,7 +16,7 @@
     --cover-background-size                            : cover;
 
     /* Blockquote (Subtitle) */
-    --cover-blockquote-color                           : rgb(255,255,255;
+    --cover-blockquote-color                           : rgb(255,255,255);
     --cover-blockquote-font-size                       : var(--font-size-l);
 
     /* Border */
