@@ -3,6 +3,7 @@
 - [Post Install](/docs/post/)
   - [Desktop Environment](/docs/post/desktop-env.md)
   - [Graphics Driver](/docs/post/graphics.md)
+  - [Managing Systemd Services](/docs/post/services.md)
 - [Networking & Wireless](/docs/networking/)
   - [Wireless Connection](/docs/networking/wifi.md)
 - [Package Managing](/docs/package-managing/)
