@@ -11,7 +11,7 @@ The **Easy Arch Wiki** exists to simplify Arch Linux for beginners. Unlike the o
 This wiki is **not** about replicating the official Arch Wiki. Instead, we aim to complement it by making Arch Linux accessible to new users.
 
 ## How to Contribute
-We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://docsify.js.org/) under the hood for the Wiki look. You can contribute by:
+We use **GitHub** to manage and host the Easy Arch Wiki with [Docsify](https://docsify.js.org/) under the hood for the Wiki look (take a look at how to add items to the side- and navbar if you want to contribute). You can contribute by:
 1. **Forking the Repository:**  
    Clone the project to your local machine and make updates or additions. You can also view the repo [here](https://github.com/JasperBroeck/Easy-ArchWiki).
    
