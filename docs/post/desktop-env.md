@@ -1,5 +1,5 @@
 # Installing a Desktop Environment
-If you used our install guide, you normally already have a desktop but if not, you can follow this quick guide to install your desktop of choice! Here we'll go over GNOME, KDE Plasma and XFCE.
+If you used our install guide, you normally already have a desktop but if not, you can follow this quick guide to install your desktop of choice! Here we'll go over GNOME and KDE Plasma.
 
 ## GNOME
 In GNOME there are two package groups available:
