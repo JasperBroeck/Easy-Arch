@@ -1,4 +1,4 @@
 :root {
-  cover-background-mask-color: black;
-  cover-background-mask-opacity: 0;
+    // Background
+    --cover-background-color               : #000000;
 }
