@@ -56,7 +56,7 @@
     --cover-button-primary-text-decoration-color--hover: ;
 
     /* Heading */
-    --cover-heading-color                              : var(--theme-color);
+    --cover-heading-color                              : rgb(255,255,255);
     --cover-heading-font-size                          : var(--font-size-xxl);
     --cover-heading-font-size-min                      : ;
     --cover-heading-font-size-max                      : ;
