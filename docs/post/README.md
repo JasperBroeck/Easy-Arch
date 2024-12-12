@@ -1,0 +1,3 @@
+# Post Install
+Post installation steps can make your experience a lot smoother and faster, for example installing the right drivers or a desktop environment can make your system even better. For that purpose we recommend going over the steps in this section but you don't need to do steps that you've already done during the installation for example, if you already have a desktop, don't install a new one unless you want another one.
+Good luck!
