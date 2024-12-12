@@ -1,17 +1,6 @@
 :root {
-    --cover-color                                      : rgba(255, 255, 255, 255);
-    --cover-margin                                     : 0 auto;
-    --cover-max-width                                  : 40em;
-    --cover-text-align                                 : center;
-
-    /* Background */
-    --cover-background-blend-mode                      : ;
+    --cover-color                                      : rgb(255,255,255);
     --cover-background-color                           : rgb(40,51,57);
-    --cover-background-image                           : ;
     --cover-background-mask-color                      : rgb(40,51,57);
-    --cover-background-mask-opacity                    : 0.8;
-    --cover-background-mask-visibility                 : ;
-    --cover-background-position                        : center center;
-    --cover-background-repeat                          : no-repeat;
-    --cover-background-size                            : cover;
+    --cover-blockquote-color                           : rgb(255,255,255;
 }
