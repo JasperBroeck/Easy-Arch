@@ -12,5 +12,7 @@ You start the program using the ```ìwctl``` command, this gives you another com
 5. Last but not least, connect to a network using ```station {device name} connect {network name}```, you'll need to put in the wifi password and you'll be connected.
 6. Test your connection by pinging a site, for example: ```ping google.com```.
 
+You can confirm if you're connected using the ping command like this, ```ping google.com```
+
 And...
 ...You're connected!
