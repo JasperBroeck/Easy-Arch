@@ -1,4 +1,4 @@
 :root {
     // Background
-    --cover-background-color               : #000000;
+    --cover-background-color               : rgba(0, 0, 0, 1);
 }
