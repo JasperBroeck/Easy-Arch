@@ -56,7 +56,7 @@ To ensure consistency and quality, please follow these guidelines:
    ```
 6. Submit your pull request!
 
-## **Need Help?**
+## Need Help?
 If you’re unsure about anything or need help getting started, don’t hesitate to reach out. Open an issue on GitHub, and we’ll assist you.
 
 Together, let’s make Arch Linux simple and accessible for everyone. Thank you for contributing! 💻✨
