@@ -18,6 +18,9 @@ And... You're connected!
 
 In this article, I'll show you how to pair with a bluetooth device.
 
+## Go into bluetoothctl
+To follow the rest of this article, first run ```bluetoothctl```.
+
 ## Enabling pairing
 To enable pairing, use the following command:
 ```bash
