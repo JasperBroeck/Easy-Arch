@@ -44,5 +44,3 @@ systemctl status <service_name>
 Replace `<service_name>` with the actual name of the service you want to check.
 
 Note that `systemctl` is a powerful tool, and it's recommended to use it instead of traditional system administration tools like `rc.d` or `init.d`.
-
-Let me know if this meets your requirements!
